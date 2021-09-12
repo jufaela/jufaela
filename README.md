@@ -1,4 +1,4 @@
-## Olá! Eu sou a Júlia, bem vindos ao meu perfil!
+## Olá! Eu sou a Júlia, bem vindos ao meu repositório!
 
 <div>
   <a href="https://github.com/jufaela">
