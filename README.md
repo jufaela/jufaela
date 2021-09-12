@@ -22,5 +22,5 @@
   <a href="https://www.linkedin.com/in/j%C3%BAlia-andrade-1195a121a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  <div>
-    ![Snake animation](https://github.com/jufaela/jufaela/blob/output/github-contribution-grid-snake.svg)
+   <img src= (tps://github.com/jufaela/jufaela/blob/output/github-contribution-grid-snake.svg)/>
  </div>
