@@ -7,9 +7,6 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ju-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img height="150em" align="right" alt="Ju-icon" src="https://i.picasion.com/pic91/4c8d8a58ab5b9dbda466e26fbfd405db.gif">
 </div>
   
@@ -18,7 +15,7 @@
   <div> 
   <a href = "mailto:juliarafaelateixeiraandrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/j%C3%BAlia-andrade-1195a121a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+    
   ![snake gif](https://raw.githubusercontent.com/jufaela/jufaela/output/github-contribution-grid-snake.gif)
  </div>
 
